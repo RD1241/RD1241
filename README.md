@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=RAMAN+DUGGAL;AI+%26+MACHINE+LEARNING+ENGINEER;FULL-STACK+DEVELOPER;EXPLORING+NEURAL+NETWORKS" alt="Typing SVG" /></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=RAMAN+DUGGAL;AI+%26+MACHINE+LEARNING+ENGINEER;EXPLORING+NEURAL+NETWORKS" alt="Typing SVG" /></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Specialization-AI_%26_ML-blue?style=for-the-badge&logo=python&logoColor=white" />
