@@ -47,7 +47,7 @@ Currently focusing on **AI/ML, Game Development, Frontend, and Data Analysis**.
 
 - 🧑‍💻 **GitHub:** https://github.com/RD1241
 - 🧠 **LeetCode:** (add your link)
-- 💼 **LinkedIn:** (add your link)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/raman-duggal-95aa57353/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B17cdpXYFRxSbjO8yQWUlnA%3D%3D
 
 ---
 
